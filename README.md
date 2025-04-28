@@ -3,7 +3,7 @@
 ## 如何运行
 1.克隆到本地
 ```
-git clone https://github.com/zjrwtx/AIgene_anki.git
+git clone https://github.com/ReLuckyLucy/DESencrypt_PYQT5.git
 ```
 
 2.安装依赖
